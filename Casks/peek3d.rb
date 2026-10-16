@@ -1,6 +1,6 @@
 cask "peek3d" do
-  version "1.2"
-  sha256 "1898565bf519e4daf0cc7aeb78918cf8e7fd5ab0cce66511f2b8910e50688529"
+  version "1.2.1"
+  sha256 "fc452f0c6e072e0c6224ae163014f24e5ee672eddfcb3f79436e323dfd4d8373"
 
   url "https://github.com/deeeemiss/Peek3D/releases/download/v#{version}/Peek3D-#{version}.dmg"
   name "Peek3D"
